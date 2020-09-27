@@ -105,5 +105,5 @@ const App = () => {
     <TodoList todos={todos} onRemove={onRemove} onToggle={onToggle}/>
   </TodoTemplate>
   );
-};
+}; 
 export default App;
